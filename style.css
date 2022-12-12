@@ -115,7 +115,8 @@ footer {margin-block: 1.5rem;}
          top: 185px;}
 
     div#card-info {width: fit-content;
-                   padding-right: 5rem;}
+                   padding-right: 5rem;
+                   padding-block: 3rem;}
 
     picture {height: 100%;
              display: flex;
@@ -125,8 +126,7 @@ footer {margin-block: 1.5rem;}
     picture img {height: fit-content;}
 
     h1 {text-align: left;
-        margin-bottom: 2rem;
-        margin-top: 4rem;}
+        margin-bottom: 2rem;}
 
     details {margin-left: 0;
              width: 300px;}
