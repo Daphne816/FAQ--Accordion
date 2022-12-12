@@ -119,6 +119,8 @@ footer {margin-top: 1.5rem;}
                background-image: url(images/bg-pattern-mobile.svg);
                background-position: 50% 0;
                height: 110px;}
+    
+     #pic-holder {overflow: visible;}
 
     img {left: 0;
          transform: scale(.75) translateY(-75%);}
