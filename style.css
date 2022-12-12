@@ -106,7 +106,7 @@ footer {margin-block: 1.5rem;}
                   background-position-x: -600px;
                   background-position-y: -300px;
                   width: fit-content;
-                  height: 450px;
+                  height: auto;
                   position: relative;}
 
     svg {display: inline;
