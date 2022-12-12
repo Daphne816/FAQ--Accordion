@@ -40,6 +40,8 @@ body {font-size: 12px;
            background-position: 115% 65%;
            position: relative;}
 
+#pic-holder {overflow: hidden;}
+
 #card-img::after {content: "";
                   display: inline-block;
                   position: absolute;
