@@ -37,7 +37,8 @@ body {font-size: 12px;
 #card-img {padding-block: 4rem;
            background-image: url(images/bg-pattern-desktop.svg);
            background-repeat: no-repeat;
-           background-position: 115% 65%;}
+           background-position: 115% 65%;
+           overflow-x: hidden;}
 
 img {position: relative;
      left: -80px;}
