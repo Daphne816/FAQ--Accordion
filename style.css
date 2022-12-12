@@ -42,9 +42,9 @@ body {font-size: 12px;
 img {position: relative;
      left: -80px;}
 
-svg {position: relative;
-     left: -570px;
-     top: -40px;}
+svg {position: absolute;
+     left: 190px;
+     top: 340px;}
 
 #card-text {padding-right: 6rem;
             margin-block: 1.5rem;}  
