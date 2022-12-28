@@ -121,9 +121,14 @@ footer {margin-top: 1.5rem;}
                height: 110px;}
     
      #pic-holder {overflow: visible;}
-
+    
+    picture {display: flex;}
+    
     img {left: 0;
-         transform: scale(.75) translateY(-75%);}
+         transform: translateY(-58%);
+         max-height: 200px;
+         text-align: center;
+         margin-inline: auto;}
 
     svg {display: none;}
 
